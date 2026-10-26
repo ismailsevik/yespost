@@ -1,0 +1,6 @@
+{
+  "name": "InstaShield Brave - Instagram Content Filter & Rules Generator",
+  "description": "Brave tarayıcısı ve uBlock Origin için Instagram giriş yapma engellerini kaldıran içerik filtreleme kuralları, Userscript ve eklenti paketleyici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
